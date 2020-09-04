@@ -1,0 +1,7 @@
+D:\Micro4Win\Micro4Win\bin\Debug\Micro4Win.exe.config
+D:\Micro4Win\Micro4Win\bin\Debug\Micro4Win.exe
+D:\Micro4Win\Micro4Win\bin\Debug\Micro4Win.pdb
+D:\Micro4Win\Micro4Win\obj\Debug\Micro4Win.csprojAssemblyReference.cache
+D:\Micro4Win\Micro4Win\obj\Debug\Micro4Win.csproj.CoreCompileInputs.cache
+D:\Micro4Win\Micro4Win\obj\Debug\Micro4Win.exe
+D:\Micro4Win\Micro4Win\obj\Debug\Micro4Win.pdb
